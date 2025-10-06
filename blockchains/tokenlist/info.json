@@ -1,0 +1,15 @@
+{
+  "name": "RaceTech",
+  "symbol": "RTECH",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "RaceTech is a blockchain-based project focused on racing simulation, Arduino robotics, and gamified learning.",
+  "website": "https://racetech.global",
+  "explorer": "https://bscscan.com/token/0xYOURTOKENADDRESS",
+  "status": "active",
+  "id": "racetech",
+  "links": {
+    "telegram": "https://t.me/racetechproject",
+    "twitter": "https://twitter.com/racetech_token"
+  }
+}
